@@ -48,10 +48,8 @@ Click Create.
 
 Import the SQL File
 After creating the database, select it from the left panel.
-
 Click the Import tab.
-Click Choose File and select your .sql file from your computer.
-Make sure Format is set to SQL.
+Click Choose File and select your university_society.sql file from this project.
 Click Go.
 
 Check the Tables
