@@ -1,5 +1,6 @@
 # WEB-dev-project
 Web Dev for Soiciety Mangment System For UNIVERSITY Level
+Main file name is Current Prototype
 
 Note that:
 The Project is made for just Educational and Personal use so dont publish it. just take the concepts from Project.
@@ -57,7 +58,7 @@ If the import is successful, you will see a success message.
 Your tables will appear in the left panel under the database name.
 
 3rd Step:
-now Place the the zip file folder in htdocs of xampp where 
+now Place the the zip file folder(current prototype) in htdocs of xampp where 
 go to: C:\xampp or the path where you have installed it.
 and unzip the folder and just now u good to go for the project overview and use.
 
